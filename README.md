@@ -3,6 +3,8 @@
 
 A brief description of your project goes here. This could include the purpose of the project, its main features, and any relevant background information.
 
+The task is to design APIS for the machine test using any REST framework
+
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
