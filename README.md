@@ -28,20 +28,29 @@ These instructions will help you set up and run the project on your local machin
 Passwaord : Praful@01
 
 ### Superuser :- details
+
 username : praful
+
 Email address: prafulkd143@gmail.com
+
 Password : Testapi@123
 
 
 ### user 1 :- user details for api
+
 username : praful
+
 Email address: prafulkd143@gmail.com
+
 Password : Testapi@123
 
 
 ### user 2 :- details
+
 username : admin
+
 Email address: prafulkude369@gmail.com
+
 Password : Testapi#369
 
 
