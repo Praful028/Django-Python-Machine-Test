@@ -91,26 +91,46 @@ Include screenshots to illustrate how to use the endpoints. Below are descriptio
 
 List all clients:
 
+![retriving client](https://github.com/user-attachments/assets/a211aea8-a347-407c-90b1-9c62bb3275b2)
+
 Description: Screenshot of the Postman request for listing all clients using GET /clients/.
 Create a new client:
+
+![Screenshot 2024-08-28 201018](https://github.com/user-attachments/assets/6459b2e3-1c3c-420a-a227-952213ee64ad)
 
 Description: Screenshot of the Postman request for creating a new client using POST /clients/.
 Retrieve a client:
 
-Description: Screenshot of the Postman request for retrieving a client using GET /clients/:id.
+![retriving client by id](https://github.com/user-attachments/assets/1b1950c7-8ea0-404c-9481-820f6dac810d)
+
+
+Description: Screenshot of the Postman request for updating a client using PUT/PATCH /clients/:id.
 Update a client:
+
+![update](https://github.com/user-attachments/assets/08042f7e-8a76-4f95-81b1-d0368c8c2319)
+
 
 Description: Screenshot of the Postman request for updating a client using PUT/PATCH /clients/:id.
 Delete a client:
 
+![delete](https://github.com/user-attachments/assets/c4291f5c-dfb7-4a7e-868e-3108f016168f)
+
+
 Description: Screenshot of the Postman request for deleting a client using DELETE /clients/:id.
 Create a new project:
+
+![project create](https://github.com/user-attachments/assets/b88e7eae-826c-41eb-a02c-9c7587c98e5c)
+
 
 Description: Screenshot of the Postman request for creating a new project under a specific client using POST /clients/:id/projects/.
 List all projects for logged-in user:
 
+![all projects](https://github.com/user-attachments/assets/f60518b8-d19c-4fe5-ba21-99e4bdc7dd44)
+
+
 Description: Screenshot of the Postman request for listing all projects for the logged-in user using GET /projects/.
 To upload these photos:
+
 
 
 ## Contact
