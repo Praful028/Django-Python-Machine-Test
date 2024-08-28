@@ -11,9 +11,7 @@ A brief description of your project goes here. This could include the purpose of
 4. [Usage](#usage)
 5. [API Endpoints](#api-endpoints)
 6. [Screenshots](#screenshots)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+7. [Contact](#contact)
 
 ## Getting Started
 
@@ -45,7 +43,7 @@ Email address: prafulkd143@gmail.com
 Password : Testapi@123
 
 
-### user 2 :- details
+### user 2 :- user details for api
 
 username : admin
 
