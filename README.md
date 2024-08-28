@@ -24,6 +24,27 @@ These instructions will help you set up and run the project on your local machin
 - **Python 3.x**: Make sure you have Python 3 installed.
 - **PostgreSQL**: The project uses PostgreSQL as the database. You need to have PostgreSQL installed and running on your machine.
 
+### Postgres SQL 
+Passwaord : Praful@01
+
+### Superuser :- details
+username : praful
+Email address: prafulkd143@gmail.com
+Password : Testapi@123
+
+
+### user 1 :- user details for api
+username : praful
+Email address: prafulkd143@gmail.com
+Password : Testapi@123
+
+
+### user 2 :- details
+username : admin
+Email address: prafulkude369@gmail.com
+Password : Testapi#369
+
+
 ### Database Configuration
 
 Before running the project, ensure you have the correct PostgreSQL configuration:
