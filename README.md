@@ -39,23 +39,30 @@ Before running the project, ensure you have the correct PostgreSQL configuration
    ```bash
    git clone https://github.com/Praful028/Django-Python-Machine-Test.git
    cd machine_test_api
+   ```
 
 ## Run database migrations:
 
-python manage.py migrate
+   ```
+   python manage.py migrate
+   ```
 
 ## Start the development server:
-python manage.py runserver
+   ```
+   python manage.py runserver
+   ```
 
 ## Usage
 To use the application, open your web browser and navigate to:
-http://127.0.0.1:8000/
+   ```
+   http://127.0.0.1:8000/
+   ```
 
 # You can also use tools like Postman to interact with the API.
 API Endpoints
 Here are some API endpoints you can use to interact with the application:
-# http://127.0.0.1:8000/api/clients/
-# http://127.0.0.1:8000/api/projects/
+### http://127.0.0.1:8000/api/clients/
+### http://127.0.0.1:8000/api/projects/
 
 
 List all clients:
